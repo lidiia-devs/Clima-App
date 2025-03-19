@@ -40,7 +40,6 @@ class WeatherViewController: UIViewController, UITextFieldDelegate {
             textField.placeholder = "Enter city name"
             return false
         }
-        
     }
     
     
