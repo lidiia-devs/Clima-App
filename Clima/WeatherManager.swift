@@ -16,6 +16,7 @@ struct WeatherManager {
         let urlString = "\(weatherURL)&q=\(cityName)"
         print(urlString)
     }
+    
 }
 
 //9d766e2cc5ba0a8743215d778887930c
